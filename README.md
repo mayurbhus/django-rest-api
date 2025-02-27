@@ -1,3 +1,3 @@
-# mayur_bhus_interview_assignment
+(This was interview assignment)
 
-This is solution for interview assignment for the company FOTO OWL AI.
+I learnt about django rest framework, how to implement it in your project and how to build rest apis using django.
